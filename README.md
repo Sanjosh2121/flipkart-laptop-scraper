@@ -58,4 +58,4 @@ After analyzing 240 laptops, the algorithm identified a massive market inefficie
 
 ---
 
-**Author:** [Your Name]
+**Author:** [Sanjosh Khatri]
