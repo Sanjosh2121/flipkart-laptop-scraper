@@ -54,7 +54,7 @@ After analyzing 240 laptops, the algorithm identified a massive market inefficie
 
 *The project generates a "Price Hierarchy" chart to show the average cost of performance:*
 
-*(You can upload the 'bar_chart.png' image here later)*
+![Average Price Chart](chart.png)
 
 ---
 
